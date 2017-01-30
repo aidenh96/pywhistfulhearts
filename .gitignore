@@ -17,6 +17,13 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Hidden Files
+.*
+
+# Git Files
+GIT*
+git*
+
 # =========================
 # Operating System Files
 # =========================
